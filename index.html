@@ -1,0 +1,13 @@
+---
+layout: default
+title: homepage
+---
+
+<div class="container">
+  {% for post in site.posts %}
+  <article>
+    <a href="{{ post.url }}" alt="">{{ post.title }}</a>
+    <time datetime="{{ post.date | date_to_xmlschema }}"><small>{{ post.date | date_to_long_string }}</small></time>
+  </article>
+  {% endfor %}
+</div>
