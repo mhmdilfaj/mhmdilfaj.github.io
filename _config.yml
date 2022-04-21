@@ -1,6 +1,5 @@
 title: mhmdilfaj
 description: my personal website
-baseurl: 
 permalink: pretty
 plugins:
   - jekyll-seo-tag
