@@ -16,12 +16,12 @@
   </head>
   <body>
     <header class="container pt-1 pb-3">
-      <a href="{{ site.baseurl }}" alt="" class="">{{ site.title }}</a>
+      <a href="{{ site.baseurl | relative_url }}" alt="" class="">{{ site.title }}</a>
     </header>
     <main>
       {{ content }}
     </main>
-    <footer class="container pb-3">
+    <footer class="container pt-3 pb-3">
       <small>footer</small>
     </footer>
   </body>
