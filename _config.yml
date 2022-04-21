@@ -1,0 +1,14 @@
+title: mhmdilfaj
+description: my personal website
+baseurl: 
+permalink: pretty
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+author:
+  name: mhmdilfaj
+  email: mhmdilfaj@gmail.com
+  phone: +6281296827422
+version: 1.0.0
