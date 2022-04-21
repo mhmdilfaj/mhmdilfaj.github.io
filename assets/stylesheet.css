@@ -1,0 +1,43 @@
+/* stylesheet.css v-1.0.0 */
+
+/*
+ * variable
+ * base
+ * 
+ */
+
+/* variable */
+:root {
+  --gray-000: #f8f9fa;
+  --gray-100: #f1f3f5;
+  --gray-200: #e9ecef;
+  --gray-300: #dee2e6;
+  --gray-400: #ced4da;
+  --gray-500: #adb5bd;
+  --gray-600: #868e96;
+  --gray-700: #495057;
+  --gray-800: #343a40;
+  --gray-900: #212529;
+  
+  --blue: #228be6;
+  --green: #40c057;
+  --yellow: #fab005;
+  --red: #fa5252;
+  --white: #fff;
+  --black: #000;
+  
+  --link-color: var(--blue);
+  --border-color: var(--gray-500);
+  --fg-color: var(--gray-800);
+  --bg-color: #fff;
+  
+  --spacer: 1em;
+  --spacer-2: calc(var(--spacer) * 1.5);
+  --spacer-3: calc(var(--spacer) * 3);
+  
+  --system-font: -apple-system, BlinkMacSystemFont, "Segoe UI",
+ Helvetica, Arial, sans-serif,
+ "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+/* base */
