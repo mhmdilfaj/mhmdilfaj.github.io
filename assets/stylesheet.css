@@ -204,7 +204,6 @@ code {
 
 /* footnote */
 a[href^="#fn:"],
-/* Back to footnote link */
 a[href^="#fnref:"] {
   display: inline-block;
   margin-left: .1em;
