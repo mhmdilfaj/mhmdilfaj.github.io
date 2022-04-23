@@ -204,7 +204,12 @@ code {
 
 /* footnote */
 
-a[href^="#fn:"],
+a[href^="#fn:"] {
+  display: inline-block;
+  margin-left: .1em;
+  font-weight: bold;
+}
+
 a[href^="#fnref:"] {
   display: inline-block;
   margin-left: .1em;
