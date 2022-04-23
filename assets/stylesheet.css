@@ -29,7 +29,7 @@
   --black: #000;
   
   --link-color: var(--blue);
-  --border-color: var(--gray-500);
+  --border-color: var(--fg-color);
   --fg-color: var(--gray-800);
   --bg-color: #fff;
   
