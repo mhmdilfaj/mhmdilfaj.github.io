@@ -194,6 +194,7 @@ blockquote p:last-child {
 pre {
   display: block;
   margin-top: 0;
+  padding: .25em;
   overflow: auto;
   color: var(--gray-700);
   background-color: var(--gray-000);
