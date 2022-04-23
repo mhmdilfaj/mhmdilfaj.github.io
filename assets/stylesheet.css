@@ -203,6 +203,7 @@ code {
 }
 
 /* footnote */
+
 a[href^="#fn:"],
 a[href^="#fnref:"] {
   display: inline-block;
@@ -211,6 +212,7 @@ a[href^="#fnref:"] {
 }
 
 /* List of footnotes */
+
 .footnotes {
   margin-top: var(--spacer-3);
   padding-top: var(--spacer);
@@ -321,6 +323,10 @@ a[href^="#fnref:"] {
   color: var(--gray-600);
 }
 
+/* line height */
+.lh-1 {
+  line-height: 1;
+}
 
 /** else **/
 .list-style-none {
