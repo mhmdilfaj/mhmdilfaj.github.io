@@ -100,6 +100,7 @@ th {
 }
 
 thead th {
+  font-size: 100%;
   border-bottom-color: currentColor;
   border-bottom-width: .25em;
 }
