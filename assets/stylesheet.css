@@ -130,6 +130,7 @@ h5,
 h6 {
   margin-top: 0;
   margin-bottom: .25em;
+  padding-top: .5em;
   line-height: 1.25;
   font-weight: 700;
 }
@@ -300,11 +301,25 @@ a[href^="#fnref:"] {
 .border-bottom {
   border-bottom: 1px solid var(--border-color);
 }
+.border-thick {
+  border-width: thick;
+}
 
 /** colors **/
 .bg-light {
   background-color: var(--gray-100);
 }
+
+.text-dark {
+  color: var(--fg-color);
+}
+.text-white {
+  color: var(--bg-color);
+}
+.text-secondary {
+  color: var(--gray-700);
+}
+
 
 /** else **/
 .list-style-none {
