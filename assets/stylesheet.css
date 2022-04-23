@@ -68,7 +68,9 @@ a {
 
 a:hover,
 a:focus {
-  text-decoration: none;
+  text-decoration: underline;
+  text-decoration-color: var(--link-color);
+  color: var(--link-color);
 }
 
 img {
