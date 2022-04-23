@@ -317,7 +317,7 @@ a[href^="#fnref:"] {
   color: var(--bg-color);
 }
 .text-secondary {
-  color: var(--gray-700);
+  color: var(--gray-500);
 }
 
 
@@ -328,6 +328,10 @@ a[href^="#fnref:"] {
 
 .text-decoration-none {
   text-decoration: none;
+}
+
+.d-block {
+  display: block;
 }
 
 /*
