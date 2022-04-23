@@ -28,7 +28,7 @@
   --white: #fff;
   --black: #000;
   
-  --link-color: var(--blue);
+  --link-color: var(--red);
   --border-color: var(--gray-500);
   --fg-color: var(--gray-800);
   --bg-color: #fff;
@@ -63,7 +63,7 @@ body {
 }
 
 a {
-  color: var(--link-color);
+  color: currentColor;
 }
 
 a:hover,
