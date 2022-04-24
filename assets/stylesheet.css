@@ -1,6 +1,7 @@
 /* stylesheet.css v-1.0.0 */
 
 /*
+ * typeface
  * variable
  * base
  * typography
@@ -16,6 +17,8 @@
 			 url("https://www.bu.edu/cdn/fonts/TiemposText/TiemposText-Regular.woff") format("woff");
 	font-style: normal;
 	font-weight: 400;
+	font-display: swap;
+	
 }
 @font-face {
 	font-family: "TiemposText";
@@ -24,6 +27,7 @@
 				url("https://www.bu.edu/cdn/fonts/TiemposText/TiemposText-Regular-Italic.woff") format("woff");
 	font-style: italic;
 	font-weight: 400;
+	font-display: swap;
 }
 	
 @font-face {
@@ -33,6 +37,7 @@
 			 url("https://www.bu.edu/cdn/fonts/TiemposText/TiemposText-Semibold.woff") format("woff");
 	font-style: normal;
 	font-weight: 600;
+	font-display: swap;
 }
 @font-face {
 	font-family: "TiemposText";
@@ -41,6 +46,7 @@
 			 url("https://www.bu.edu/cdn/fonts/TiemposText/TiemposText-Semibold-Italic.woff") format("woff");
 	font-style: italic;
 	font-weight: 600;
+	font-display: swap;
 }
 
 /** variable **/
@@ -100,6 +106,7 @@ body {
 
 a {
   color: currentColor;
+	text-decoration-color: var(--link-color);
 }
 
 a:hover,
@@ -195,6 +202,8 @@ h4,
 h5,
 h6 {
   font-size: 1.25em;
+	font-variant: small-caps;
+	font-variant-caps: all-small-caps;
 }
 
 p {
