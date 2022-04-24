@@ -285,6 +285,7 @@ a[href^="#fnref:"] {
 
 .footnotes {
   margin-top: var(--spacer-2);
+	margin-left: 0;
   padding-top: var(--spacer);
 	padding-top: 0;
   font-family: var(--system-font);
