@@ -14,7 +14,7 @@
 	font-family: "TiemposText";
 	src: url("https://www.bu.edu/cdn/fonts/TiemposText/TiemposText-Regular.eot");
 	src: url("https://www.bu.edu/cdn/fonts/TiemposText/TiemposText-Regular.eot?#iefix") format("embedded-opentype"),
-			 url("https://www.bu.edu/cdn/fonts/TiemposText/TiemposText-Regular.woff") format("woff");
+			url("https://www.bu.edu/cdn/fonts/TiemposText/TiemposText-Regular.woff") format("woff");
 	font-style: normal;
 	font-weight: 400;
 	font-display: swap;
@@ -197,11 +197,15 @@ h2 {
   font-size: 1.5em;
 }
 
+h3 {
+  font-size: 1.25em;
+}
+
 h3,
 h4,
 h5,
 h6 {
-  font-size: 1.25em;
+  font-size: 1em;
 	font-variant: small-caps;
 	font-variant-caps: all-small-caps;
 }
@@ -209,6 +213,10 @@ h6 {
 p {
   margin-top: 0;
   margin-bottom: var(--spacer);
+}
+
+.lead {
+  font-size: 1.15em;
 }
 
 small {
