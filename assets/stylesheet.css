@@ -106,7 +106,7 @@ body {
 
 a {
   color: currentColor;
-	text-decoration-color: var(--link-color);
+	text-decoration-color: currentColor;
 }
 
 a:hover,
