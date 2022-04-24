@@ -113,7 +113,7 @@ a:hover,
 a:focus {
   text-decoration: underline;
   text-decoration-color: var(--link-color);
-  color: currentColor;
+  color: var(--link-color);
 }
 
 img {
@@ -201,7 +201,6 @@ h3 {
   font-size: 1.25em;
 }
 
-h3,
 h4,
 h5,
 h6 {
