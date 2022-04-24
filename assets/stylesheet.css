@@ -194,23 +194,14 @@ h1 {
 }
 
 h2 {
-  font-size: 1.5em;
-}
-
-h3 {
   font-size: 1.25em;
-}
-
-h4,
-h5,
-h6 {
-  font-size: 1.15em;
 }
 
 h3,
 h4,
 h5,
 h6 {
+	font-size: 1.15em;
 	font-variant: small-caps;
 	font-variant-caps: all-small-caps;
 }
@@ -305,8 +296,8 @@ a[href^="#fnref:"] {
 /* layout */
 .container {
   max-width: 25em;
-  padding-left: 24px;
-  padding-right: 24px;
+  padding-left: 20px;
+  padding-right: 20px;
   margin-left:  auto;
   margin-right: auto;
 }
