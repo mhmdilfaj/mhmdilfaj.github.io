@@ -194,7 +194,7 @@ h1 {
 }
 
 h2 {
-  font-size: 1.35em;
+  font-size: 1.45em;
 }
 
 h3,
@@ -226,7 +226,7 @@ ul, ol, dl {
 
 dt {
   font-weight: normal;
-	font-style: italic;
+	font-style: normal;
 }
 
 dd {
