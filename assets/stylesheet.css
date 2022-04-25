@@ -255,6 +255,7 @@ ul, ol, dl {
 dt {
   font-weight: normal;
 	font-style: normal;
+	padding-bottom: .5em;
 }
 
 dd {
