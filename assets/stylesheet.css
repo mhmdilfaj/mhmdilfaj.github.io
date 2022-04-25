@@ -327,8 +327,8 @@ a[href^="#fnref:"] {
 /* layout */
 .container {
   max-width: 25em;
-  padding-left: 18px;
-  padding-right: 18px;
+  padding-left: 20px;
+  padding-right: 20px;
   margin-left:  auto;
   margin-right: auto;
 }
