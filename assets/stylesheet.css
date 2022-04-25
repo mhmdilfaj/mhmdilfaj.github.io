@@ -121,8 +121,8 @@
 
 body {
   font-family: var(--serif-font);
-  font-size: 15px;
-  line-height: 1.5;
+  font-size: 16px;
+  line-height: 1.45;
   color: var(--fg-color);
   background-color: var(--bg-color);
 }
