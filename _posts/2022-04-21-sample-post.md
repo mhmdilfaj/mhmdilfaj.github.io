@@ -44,14 +44,14 @@ Karenanya pencarian terhadap kalimat "Lorem Ipsum" akan berujung pada banyak sit
 </figure>
 
 ## Quotes
-> Words can be like X-rays, if you use them properly—they’ll go through anything. You read and you’re pierced.
+> "Words can be like X-rays, if you use them properly—they’ll go through anything. You read and you’re pierced."
 
 ## Quotes with citation
 <figure>
   <blockquote cite="https://www.huxley.net/bnw/four.html">
     <p>Words can be like X-rays, if you use them properly—they’ll go through anything. You read and you’re pierced.</p>
   </blockquote>
-  <figcaption class="figure-caption">—Aldous Huxley, <cite><a href="https://www.huxley.net/bnw/four.html">Brave New World</a></cite></figcaption>
+  <figcaption class="figure-caption">Aldous Huxley, <cite><a href="https://www.huxley.net/bnw/four.html">Brave New World</a></cite></figcaption>
 </figure>
 
 ## Tables
