@@ -232,6 +232,7 @@ h5,
 h6 {
 	font-size: 1.15em;
 	font-variant-caps: all-small-caps;
+	letter-spacing: 0.05em;
 }
 
 p {
