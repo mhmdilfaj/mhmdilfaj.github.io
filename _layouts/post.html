@@ -4,7 +4,7 @@ layout: default
 
 <article class="container">
   <header class="mb-2">
-    <h1 class="m-0 p-0"><strong>{{ page.title }}</strong></h1>
+    <h1 class="m-0 p-0">{{ page.title }}</h1>
     <time datetime="{{ page.date | date_to_xmlschema }}"><small class="text-secondary">{{ page.date | date_to_long_string }}</small></time>
   </header>
   {{ content }}
