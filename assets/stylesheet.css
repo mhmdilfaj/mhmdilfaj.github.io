@@ -230,9 +230,9 @@ h3,
 h4,
 h5,
 h6 {
-	font-size: 1.15em;
+	font-size: 1.25em;
 	font-variant-caps: all-small-caps;
-	letter-spacing: 0.05em;
+	letter-spacing: 0.07em;
 }
 
 p {
@@ -326,8 +326,8 @@ a[href^="#fnref:"] {
 /* layout */
 .container {
   max-width: 25em;
-  padding-left: 23px;
-  padding-right: 23px;
+  padding-left: 24px;
+  padding-right: 24px;
   margin-left:  auto;
   margin-right: auto;
 }
