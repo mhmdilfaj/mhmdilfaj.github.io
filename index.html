@@ -6,7 +6,7 @@ title: homepage
 <div class="container">
   {% for post in site.posts %}
   <article class="mb-1">
-    <a href="{{ post.url }}" alt="" class="text-decoration-none text-dark lh-1">{{ post.title }}</a>
+    <a href="{{ post.url }}" alt="" class="text-decoration-none fs-3 text-dark lh-1">{{ post.title }}</a>
     <time datetime="{{ post.date | date_to_xmlschema }}"><small class="d-block text-secondary lh-1">{{ post.date | date_to_long_string }}</small></time>
   </article>
   {% endfor %}
