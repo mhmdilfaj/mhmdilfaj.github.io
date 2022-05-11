@@ -8,7 +8,7 @@ Rumah kontrakan Arini yang kami tempati menyimpan sederet peristiwa kelam. Peris
 
 Awal 2000, kegiatan *outdoor*, terutama mendaki gunung, sudah mulai menampakkan geliatnya. Bersama beberapa teman, aku merintis pendirian sebuah *event organizer* yang bergerak di bidang wisata *outdoor*. Tapi tidak seperti yang dibayangkan, kami justru mendapat banyak gangguan saat menempati *basecamp* baru.
 
-## Menempati rumah kontrakan baru
+## **Menempati rumah kontrakan baru**
 
 Selesai kuliah, aku dan teman-teman sepakat untuk membuat sebuah usaha bersama. Tujuannya bukan mencari keuntungan semata, tapi lebih sebagai tempat untuk silaturahmi.
 
@@ -36,7 +36,7 @@ Sekira 10 tahun yang lalu, ada penghuni rumah yang gantung diri tanpa diketahui 
 
 Kepalang basah membayar, mau tidak mau, kami tetap nekad menghuninya. Lagian rumah kontrakan yang sebelumnya dipakai untuk gantung diri belum tentu angker juga. Bisa jadi itu hanya gosip yang tersebar di lingkungan tersebut, karena gantung diri memang bukan kematian yang wajar dan kerap menjadi bahan pembicaraan, bahkan setelah bertahun-tahun berlalu. Kalaupun ditemui sesuatu yang ganjil, bagi kami hal itu sudah biasa. Sudah tidak terhitung berapa kali mengalami kejadian seperti itu saat dulu sering mendaki gunung bersama.
 
-## Teror dimulai
+## **Teror dimulai**
 
 Setelah selesai urusan dengan Pak RT, sekira pukul sembilan malam, kami berpamitan. Kami menuju rumah kontrakan setelah sebelumnya membeli kudapan. Rupanya, Teguh lupa belum memasang lampu penerangan jalan sehingga walaupun rumah tampak terang, tapi jalan di depan rumah masih gelap. Sesaat setelah membuka gerbang depan, kami semua mencium bau busuk, seperti bangkai tikus yang sudah beberapa hari mati.
 
