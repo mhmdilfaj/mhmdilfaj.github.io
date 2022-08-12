@@ -122,7 +122,7 @@
 
 body {
   font-family: var(--sans-serif-font), var(--system-font);
-  font-size: 18px;
+  font-size: 17px;
   line-height: 1.4;
   color: var(--fg-color);
   background-color: var(--bg-color);
