@@ -111,6 +111,7 @@
  Helvetica, Arial, sans-serif,
  "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   --serif-font: "TiemposText", serif;
+	--sans-serif-font: "alegreya-sans", sans-serif;
 }
 
 /** base **/
@@ -120,7 +121,7 @@
 }
 
 body {
-  font-family: var(--serif-font);
+  font-family: var(--sans-serif-font), var(--system-fomt);
   font-size: 16px;
   line-height: 1.5;
   color: var(--fg-color);
@@ -153,7 +154,7 @@ img {
 table {
   margin-bottom: var(--spacer);
   width: 100%;
-  font-family: var(--system-font);
+  font-family: var(--sans-serif-font), var(--system-font);
   font-size: 80%;
   border: 0 solid var(--border-color);
   border-collapse: collapse;
@@ -179,7 +180,7 @@ thead th {
 }
 
 table caption {
-  font-family: var(--system-font);
+  font-family: var(--sans-serif-font), var(--system-font);
   caption-side: bottom;
   text-align: left;
   color: var(--gray-700);
@@ -195,7 +196,7 @@ figure {
 }
 
 figcaption {
-  font-family: var(--system-font);
+  font-family: var(--sans-serif-font), var(--system-font);
   font-size: 80%;
   color: var(--gray-700);
 }
